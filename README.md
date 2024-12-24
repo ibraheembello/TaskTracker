@@ -1,6 +1,7 @@
 # Task Tracker CLI
 
 A simple command-line task management tool that helps you keep track of your tasks with basic CRUD operations and status management.
+Project URL: https://roadmap.sh/projects/task-tracker
 
 ## Installation
 
